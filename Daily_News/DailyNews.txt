@@ -1,0 +1,5 @@
+. C:\slmtools\DailyStatusReports\Scripts\StatusReportCreation.ps1
+Send-Report 1
+Send-Report 2
+Send-Report 3
+Send-Report 4
